@@ -1,0 +1,12 @@
+{
+  "name": "ultimate-habit-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Habit tracker avec API serverless (Vercel) et base PostgreSQL",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "pg": "^8.11.5"
+  }
+}
